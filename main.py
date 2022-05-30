@@ -1,5 +1,3 @@
-# Do not put any other code or imports here
-
-
 class HerokuApp:
-    app_url = ""  # Fill your heroku app url here
+    # app_url = "http://127.0.0.1:8000"  # Fill your heroku app url here
+    app_url = "https://szpyt-dft-1.herokuapp.com"  # Fill your heroku app url here
